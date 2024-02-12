@@ -9,3 +9,4 @@ spec:
         ports:
         - name: h2c
           containerPort: 8080
+passport oj
